@@ -12,7 +12,14 @@ Vergeet dus zeker niet regelmatig de website van SYNTRA te bezoeken.
 Kloon de repository op je computer en `git pull` voor elke les, \
 om de laatste updates van je docenten op je computer tot je beschikking te krijgen.
 
-### Uw informatiebronnen over SYNTRA regelementen 
+
+### Leerstof
+
+ - [Backend Developer 1](./Backend-Developer-1/)
+ - [Backend Developer 2](./Backend-Developer-2/)
+
+
+### SYNTRA documenten, regelementen, enz. 
 
 #### Algemene afspraken:
 
@@ -36,9 +43,3 @@ Verdeel de taken dan goed. Maak duidelijke afspraken op papier. Respecteer elkaa
 SYNTRA Limburg biedt ook:
 - Loopbaanbegeleiding; voor meer informatie klik [hier]( https://sim.syntra-limburg.be/images/cursisten/LBB_Cursistenportaal.pptx). 
 - Studiebegeleiding; voor meer informatie klik [hier]( https://www.syntra-limburg.be/klantencentrum/studeren-bij-syntra-studie-en-loopbaanbegeleiding/er-begeleiding-voorzien).
-
-
-### Leerstof:
-
- - [Backend Developer 1](./Backend-Developer-1/)
- - [Backend Developer 2](./Backend-Developer-2/)
