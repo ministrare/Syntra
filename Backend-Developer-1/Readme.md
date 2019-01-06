@@ -1,10 +1,8 @@
-# SYNTRA Limburg 
-
-## Backend developer 1
+# SYNTRA: Backend Developer 1
 
 [![Onthaalfilm eerste jaar](http://img.youtube.com/vi/XQi6vnNxzQw/0.jpg)](http://www.youtube.com/watch?v=XQi6vnNxzQw "Onthaalfilm")
 
-### Inhoud
+## Inhoud
  - [Introductie](./)
  - [Logisch Redeneren](./)
  - [Git & Github](./03-Git&Github/)
@@ -14,6 +12,6 @@
 
 ---
 
- #### Handige links
+ ### Handige links
  - [PHP Kookboek](https://www.bol.com/nl/p/php-kookboek/1001004006192040/?country=BE)
  - [Standaard SQL Basisboek](https://www.bol.com/nl/p/standaard-sql/1001004010609010/?country=BE)

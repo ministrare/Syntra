@@ -1,6 +1,6 @@
 # SYNTRA Limburg 
 
-## Opleiding: Backend developer
+## SYNTRA Opleiding: Backend developer
 
 Deze repository is uw bron voor alle informatie gedurende de opleiding: Backend developer.
 
@@ -19,16 +19,16 @@ om de laatste updates van je docenten op je computer tot je beschikking te krijg
  - [Backend Developer 2](./Backend-Developer-2/)
 
 
-### SYNTRA documenten, regelementen, enz. 
+## SYNTRA documenten, regelementen, enz. 
 
-#### Algemene afspraken:
+### Algemene afspraken:
 
 - [Cursistengids](https://sim.syntra-limburg.be/images/cursisten/Cursistengids_CJ_2018-2019.pdf)
 - [Algemene afspraken]( https://syntra-cloud.be/lim/pluginfile.php/2248/mod_folder/content/0/Afspraken%20algemeen.pdf?forcedownload=1)
 - [Cursisten Portaal](https://cursist.syntra-limburg.be/)
 
 
-#### Werkhouding:
+### Werkhouding:
 
 - In groep werken kan goed verlopen als iedereen de opdracht begrijpt en accepteert en de groep een gezamenlijke visie op het resultaat heeft ontwikkeld. \
 Verdeel de taken dan goed. Maak duidelijke afspraken op papier. Respecteer elkaar in het ‘anders’ zijn.
@@ -38,7 +38,7 @@ Verdeel de taken dan goed. Maak duidelijke afspraken op papier. Respecteer elkaa
 - Spelen en pesterijen worden niet toegelaten.
 
 
-#### Begeleiding:
+### Begeleiding:
 
 SYNTRA Limburg biedt ook:
 - Loopbaanbegeleiding; voor meer informatie klik [hier]( https://sim.syntra-limburg.be/images/cursisten/LBB_Cursistenportaal.pptx). 
