@@ -2,6 +2,9 @@
 
 ## Backend developer 1
 
+### Introductie video
+[![Onthaalfilm eerste jaar](http://img.youtube.com/vi/XQi6vnNxzQw/0.jpg)](http://www.youtube.com/watch?v=XQi6vnNxzQw "Onthaalfilm")
+
 #### Inhoud
  - [Introductie](./01-Introduction/)
  - [Logisch Redeneren](./02-Logical-reasoning/)

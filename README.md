@@ -14,8 +14,6 @@ om de laatste updates van je docenten op je computer tot je beschikking te krijg
 
 ### Uw informatiebronnen over SYNTRA regelementen 
 
-[![Onthaalfilm eerste jaar](http://img.youtube.com/vi/XQi6vnNxzQw/0.jpg)](http://www.youtube.com/watch?v=XQi6vnNxzQw "Onthaalfilm")
-
 #### Algemene afspraken:
 
 - [Cursistengids](https://sim.syntra-limburg.be/images/cursisten/Cursistengids_CJ_2018-2019.pdf)
