@@ -9,7 +9,7 @@ Deze website dient dus niet ter vervangen van het huidige SYNTRA \
 website/moodle maar als een extra ondersteunings platform. \
 Vergeet dus zeker niet regelmatig de website van SYNTRA te bezoeken.
 
-Kloon de repository op je computer en ‘git pull’ voor elke les, \
+Kloon de repository op je computer en `git pull` voor elke les, \
 om de laatste updates van je docenten op je computer tot je beschikking te krijgen.
 
 
