@@ -14,9 +14,10 @@ om de laatste updates van je docenten op je computer tot je beschikking te krijg
 
 ### Uw informatiebronnen over SYNTRA regelementen 
 
+[![Onthaalfilm eerste jaar](http://img.youtube.com/vi/XQi6vnNxzQw/0.jpg)](http://www.youtube.com/watch?v=XQi6vnNxzQw "Onthaalfilm")
+
 #### Algemene afspraken:
 
-- [![Onthaalfilm eerste jaar](http://img.youtube.com/vi/XQi6vnNxzQw/0.jpg)](http://www.youtube.com/watch?v=XQi6vnNxzQw "Onthaalfilm")
 - [Cursistengids](https://sim.syntra-limburg.be/images/cursisten/Cursistengids_CJ_2018-2019.pdf)
 - [Algemene afspraken]( https://syntra-cloud.be/lim/pluginfile.php/2248/mod_folder/content/0/Afspraken%20algemeen.pdf?forcedownload=1)
 - [Cursisten Portaal](https://cursist.syntra-limburg.be/)
@@ -35,8 +36,8 @@ Verdeel de taken dan goed. Maak duidelijke afspraken op papier. Respecteer elkaa
 #### Begeleiding:
 
 SYNTRA Limburg biedt ook:
-- Loopbaanbegeleiding: voor meer informatie klik [hier]( https://sim.syntra-limburg.be/images/cursisten/LBB_Cursistenportaal.pptx). 
-- Studiebegeleiding: voor meer informatie klik [hier]( https://www.syntra-limburg.be/klantencentrum/studeren-bij-syntra-studie-en-loopbaanbegeleiding/er-begeleiding-voorzien).
+- Loopbaanbegeleiding; voor meer informatie klik [hier]( https://sim.syntra-limburg.be/images/cursisten/LBB_Cursistenportaal.pptx). 
+- Studiebegeleiding; voor meer informatie klik [hier]( https://www.syntra-limburg.be/klantencentrum/studeren-bij-syntra-studie-en-loopbaanbegeleiding/er-begeleiding-voorzien).
 
 
 ### Leerstof:
