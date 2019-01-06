@@ -5,7 +5,7 @@
 ## Inhoud
  - [Introductie](./)
  - [Logisch Redeneren](./)
- - [Git & Github](./03-Git&Github/)
+ - [Git & Github](./03-Git-Github/)
  - [Basis Programmeren](./)
  - [PHP Programmeren 1](./05-PHP/)
  - [Databanken](./)
