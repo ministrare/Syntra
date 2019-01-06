@@ -4,6 +4,8 @@
  - [Documentatie](#Documentatie)
  - [Git & Github, waar staan ze voor?](#Git-&-Github-waar-staan-ze-voor)
  - [Installeren & Registreren](Git-Installeren.md)
+    - [Git: Installeren](./Git-Installeren.md#Git-Installeren)
+    - [Github: Registreren](./Git-Installeren.md#Github-Registreren)
  - [Git: Configureren](Git-configureren.md)
     - [SSH-Key](Git-configureren.md/#SSH-Key)
     - [Globale User Instellingen](./Git-configureren.md#Globale-User-Instellingen)
