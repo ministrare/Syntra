@@ -2,16 +2,17 @@
 
 ## Backend developer 1
 
-### Introductie video
 [![Onthaalfilm eerste jaar](http://img.youtube.com/vi/XQi6vnNxzQw/0.jpg)](http://www.youtube.com/watch?v=XQi6vnNxzQw "Onthaalfilm")
 
-#### Inhoud
- - [Introductie](./01-Introduction/)
- - [Logisch Redeneren](./02-Logical-reasoning/)
- - [Basis Programmeren](./03-Basic-programming/)
- - [PHP Programmeren 1](./04-PHP/)
- - [Databanken](./05-Databases/)
+### Inhoud
+ - [Introductie](./)
+ - [Logisch Redeneren](./)
+ - [Git & Github](./03-Git&Github/)
+ - [Basis Programmeren](./)
+ - [PHP Programmeren 1](./05-PHP/)
+ - [Databanken](./)
 
+---
 
  #### Handige links
  - [PHP Kookboek](https://www.bol.com/nl/p/php-kookboek/1001004006192040/?country=BE)
