@@ -12,9 +12,9 @@
     - [Globale User Instellingen](#Globale-User-Instellingen)
  - [Opdrachten](#Opdrachten)
 
----
 
-### Documentatie
+
+## Documentatie
  - [Git Handbook](https://try.github.io/)
  - [Github learning lab](https://lab.github.com/)
  - [Learn git branching](http://learngitbranching.js.org/)
@@ -24,15 +24,15 @@
 
 ---
 
-### Git & Github, waar staan ze voor?
+## Git & Github, waar staan ze voor?
 **Git** is een versiebeheersoftware. Het is een essentiële tool voor elke gerespecteerde ontwikkelaar. Het geeft de mogelijkheid om codewijzigingen binnen in een project in detail op te slaan, en om in 1 file tegelijk samen te werken.
 
 **GitHub** is een op Git gebaseerde online platform dat je de mogelijkheid geeft om files online op te slaan. Daarnaast heeft het dezelfde functies als Git, zoals het maken van back-ups van je code, versiebeheer en het bijhouden van een logboek. GitHub host de grootste online ontwikkelaars community. De expertise van deze community is: samenwerken aan broncodes en het delen van projecten. Tegenwoordig zal je weinig ontwikkelaars tegenkomen die nog geen GitHub account hebben.
 
 ---
 
-### Git: Installeren
-#### Windows & Mac
+## Git: Installeren
+### Windows & Mac
 Ga naar de website van git en download de correcte versie voor uw besturingssysteem. \
 Installeer deze op uw computer.
 
@@ -41,7 +41,7 @@ Installeer deze op uw computer.
 Git is nu klaar voor gebruik
 
 
-#### Linux
+### Linux
 Open een terminal en plak daarin de onderstaande regels. 
 Het is mogelijk dat u om uw wachtwoord gevraagd word.
 
@@ -54,16 +54,16 @@ Git is nu klaar voor gebruik
 
 ---
 
-### Github: Registreren
+## Github: Registreren
 
 ---
 
-### Git: Configureren
+## Git: Configureren
 
-#### SSH-Key
+### SSH-Key
 
-#### Globale User Instellingen
+### Globale User Instellingen
 
 ---
 
-### Opdrachten
+## Opdrachten
