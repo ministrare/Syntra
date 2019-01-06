@@ -1,6 +1,4 @@
-# SYNTRA: Backend Developer 1
-
-## PHP
+# PHP
 
 ## Inhoud
  - [Module 1](./Module-1/)
@@ -11,7 +9,6 @@
    - [Functies](./Module-1/05-Functies.md)
    - [Super Globals](./Module-1/06-Super-Globals.md)
    - [Cookies](./Module-1/07-Cookies.md)
-
  - [Module 2](./Module-2/)
    - [Playlist App](./Module-2/01-Playlist-app.md)
    - []()

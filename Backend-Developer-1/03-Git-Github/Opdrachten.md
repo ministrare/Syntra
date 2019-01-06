@@ -1,4 +1,4 @@
-# SYNTRA: Backend Developer 1
+# Git
 
 ## Opdrachten
 
