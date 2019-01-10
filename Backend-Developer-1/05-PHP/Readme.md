@@ -11,4 +11,6 @@
    - [Cookies](./Module-1/07-Cookies.md)
  - [Module 2](./Module-2/)
    - [Data oplaan in een file](./Module-2/Data-oplaan-in-een-file.md)
-   - []()
+   - [Boostrap](./Module-2/02-Bootstrap.md)
+   - [jQuery](./Module-2/03-jQuery.md)
+   - [Ajax](./Module-2/04-Ajax.md)
