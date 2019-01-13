@@ -3,6 +3,7 @@
 ## Inhoud
  - [Introductie](#Introductie)
  - [Voor- vs Nadelen](#voor-vs-nadelen)
+ - [Hoe moet ik het toepassen?](#Hoe-moet-ik-het-toepassen)
  - [Documentatie](#Documentatie)
  - [Opdrachten](#Opdrachten) 
 
@@ -74,7 +75,7 @@ In deze template word er gebruikt gemaakt van een [CDN](https://www.globaldots.c
 
 Bootstrap bestaat uit kleine voorgemaakte componenten die we kunnen toepassen in onze pagina om zo de snelheid van het developen te verhogen en niet al te veel tijd bezig te moeten zijn met de opmaak van onze pagina.
 
-Door classes aan onze HTML elementen te voorzien die worden uitgelegd in de documentatie in de link hieronder, krijgen we de mogelijkheid om deze voorgemaakte styling in onze pagina aan te brengen.
+Door classes aan onze HTML elementen te voorzien zoals ze worden uitgelegd in de documentatie in de link hieronder, krijgen we de mogelijkheid om deze voorgemaakte styling in onze pagina aan te brengen.
 
 Hou er rekening mee dat het wel belangrijk is dat je de zelfde HTML structuur moet worden aangehouden als word aangegeven in de voorbeelden.
 
