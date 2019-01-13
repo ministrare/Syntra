@@ -97,7 +97,7 @@ Maak de volgende pagina`s na, zonder de HTML of broncode te inspecteren:
 
  - Opdracht 2 \
  Maak de volgende afbeelding na. Je mag alleen maar gebruik maken van bootstrap en geen eigen CSS file aanmaken.
- ![opdracht_2](./opdracht_2.png) 
+ ![opdracht_2](./02-opdracht_2.png) 
 
  - Opdracht 3 \
  Maak de volgende pagina na. Je mag alleen maar gebruik maken van bootstrap en probeer het zonder af te kijken in de broncode. \
