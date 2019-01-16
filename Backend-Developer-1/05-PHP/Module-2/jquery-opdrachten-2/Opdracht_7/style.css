@@ -1,0 +1,29 @@
+/* ex1.css */
+div {
+	border: 2px solid black;
+	padding: 10px;
+	margin: 10px;
+	width: 500px;
+	height: 700px;
+	float:left;
+}
+
+#instructions li {
+	line-height:200%;
+}
+
+.green {
+	color:green;
+}
+
+.red {
+	color:red;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.italic {
+	font-style: italic;
+}
