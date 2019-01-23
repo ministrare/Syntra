@@ -15,4 +15,4 @@
    - [Boostrap](./Module-2/02-Bootstrap.md)
    - [jQuery](./Module-2/03-jQuery.md)
    - [Ajax](./Module-2/04-Ajax.md)
-   - [Music Search](./05-Music-search.md)
+   - [Music Search](./Module-2/05-Music-search.md)
