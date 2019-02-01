@@ -97,15 +97,43 @@ Aan de andere kant is een database tabel gemaakt (en heeft gereedschappen en mog
 
 Dus, ja, je kunt ook informatie opslaan in een spreadsheet, maar het heeft niet de mogelijkheden die je in een database vindt.
 
+## Voorbeeld database importeren
+
+ - Maak een database aan genaamd ``voorbeeld-database``.
+ - Selecteer het tabblad, ``importeren``.
+ - Selecteer uw bestand via de button, bestand kiezen.
+ - en druk vervolgens op starten.
+ 
+## Datatypes
+MySQL kan werken met verschillende types van data. Dit loopt van een string tot bijvoorbeeld een boolean waarde. Er zijn verschillende data types binnen MySQL, het is belangrijk om de juiste datatypes te gebruiken voor het bevorderen van de snelheid en het minimaliseren van fouten, dus een waarde die niet hoger wordt dan 255 behoeft niet als een eengrote integer opgeslagen te worden.
+
+Je hebt bijvoorbeeld ook SIGNED en UNSIGNED datatypen, een SIGNED datatype kan ook negatief zijn, hiervoor moet 1 bitje ingeleverd worden (laatste (meest linkse) bit: 0=negatief 1=positief) , vandaar de helft van de maximale waarde.
+
+- [BIT](http://www.mysqltutorial.org/mysql-bit/)
+- [BOOLEAN](http://www.mysqltutorial.org/mysql-boolean/)
+- [CHAR](http://www.mysqltutorial.org/mysql-char-data-type/)
+- [DATE](http://www.mysqltutorial.org/mysql-date/)
+- [DATETIME](http://www.mysqltutorial.org/mysql-datetime/)
+- [DECIMAL](http://www.mysqltutorial.org/mysql-decimal/)
+- [ENUM](http://www.mysqltutorial.org/mysql-enum/)
+- [INT](http://www.mysqltutorial.org/mysql-int/)
+- [JSON](http://www.mysqltutorial.org/mysql-json/)
+- [TIME](http://www.mysqltutorial.org/mysql-time/)
+- [TIMESTAMP](http://www.mysqltutorial.org/mysql-timestamp.aspx)
+- [VARCHAR](http://www.mysqltutorial.org/mysql-varchar/)
+
+- [Volledige overzicht](http://domoticx.com/mysql-database-datatypen/)
+
 ## SQL
 
 Met behulp van deze instructie kunnen gegevens in tabellen worden opgevraagd (of geselecteerd) en opnieuw worden voorgesteld als een zogenoemde tijdelijk nieuwe tabel. 
 
 Dit commando is onomstotelijk het belangrijkste element van een sql-statement of query waarbij gegevens worden opgevraagd. Dit is anders gezegd het zogeheten fundament of basisbeginsel van een sql-statement dat informatie opvraagt. 
 
-``
-Syntax SELECT kolomnaamı (, kolomnaam2, ...) FROM tabelnaam; 
-``
+Syntax:
+```
+SELECT kolomnaamı (, kolomnaam2, ...) FROM tabelnaam; 
+```sql
 
 Deze syntax bevat twee belangrijke onderdelen of bouwstenen, namelijk select en from. Na het select-commando kunnen één, meerdere of alle kolomnamen worden geplaatst die voorkomen in de tabel die is opgenomen na de from-clausule. 
 
