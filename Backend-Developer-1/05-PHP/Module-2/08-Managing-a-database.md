@@ -1,6 +1,7 @@
 # Beheren van een database
 
 ## Inhoudsopgave
+- [Voorbereiding](#voorbereiding)
 - [Introductie](#introductie)
 - [Database types](#Database-types)
 - [Wat zijn ‘relationele’ databases](#Wat-zijn-relationele-databases)
@@ -8,6 +9,10 @@
 - [MySQL](#MySQL)
 - [PHPMyAdmin](#PHPMyAdmin)
 - [Een database](#Een-database)
+
+## Voorbereiding
+
+[Download](./voorbeeld-database.sql) de volgende SQL export om deze tijdens deze opdracht te importeren. De instructies worden gegeven.
 
 ## introductie
 
@@ -67,9 +72,30 @@ Opmerking: de bovenstaande afbeelding is met MS Acces gemaakt omdat PhpMyAdmin n
 
 Wat we zien is een database (het geheel) die reacties heet. Twee zogenaamde tabellen die personen en reacties heten. Beide tabellen hebben op hun beurt weer zogenaamde attributen. Verder is er een één-op-veel relatie tussen personen en reacties hetgeen zoveel wil zeggen dat één persoon meerdere reacties kan maken. Een ander belangrijk aspect is dat beide tabellen een attribuut Id hebben. Dit zorgt ervoor dat een record dat uiteindelijk in de tabel komt te staan uniek te identificeren is (het is mogelijk dat een persoon twee keer hetzelfde berichtje stuurt, deze willen we wel uit elkaar kunnen houden).
 
-U kunt proberen zelf bovenstaande database aan te maken met behulp van PhpMyAdmin. U kunt ook gewoon create.txt downloaden, de inhoud naar het klembord kopiëren, naar http://localhost/phpmyadmin/ surfen en links op het knopje SQL (sql) klikken. Er verschijnt dan een zogenaamd query window alwaar u de inhoud van het klembord kunt plakken. Op Go (of start afhankelijk van uw versie) drukken zorgt ervoor dat de database Reacties aangemaakt wordt!
+U kunt proberen zelf bovenstaande database aan te maken met behulp van PhpMyAdmin. Surf naar http://localhost/phpmyadmin/ en klik links op het knopje SQL (sql). Er verschijnt dan een zogenaamd query window alwaar u de SQL query kunt uitvoeren. Druk vervolgens op Go (of start afhankelijk van uw versie) om er voor te zorgen dat de query wordt uitgevoerd!
 
 ![database](./08-images/query_window.png)
 
 ## SQL
+
+Met behulp van deze instructie kunnen gegevens in tabellen worden opgevraagd (of geselecteerd) en opnieuw worden voorgesteld als een zogenoemde tijdelijk nieuwe tabel. 
+
+Dit commando is onomstotelijk het belangrijkste element van een sql-statement of query waarbij gegevens worden opgevraagd. Dit is anders gezegd het zogeheten fundament of basisbeginsel van een sql-statement dat informatie opvraagt. 
+
+``
+Syntax SELECT kolomnaamı (, kolomnaam2, ...) FROM tabelnaam; 
+``
+
+Deze syntax bevat twee belangrijke onderdelen of bouwstenen, namelijk select en from. Na het select-commando kunnen één, meerdere of alle kolomnamen worden geplaatst die voorkomen in de tabel die is opgenomen na de from-clausule. 
+
+De verschillende kolomnamen die opgesomd worden na het select-commando, die nen echter wel gescheiden te worden door een komma. 
+
+Het is eveneens mogelijk om, zonder opgave van alle kolomnamen, alles van een bepaalde tabel te selecteren door enkel een asterix achter het select-commando te plaatsen. Dus 'SELECT * FROM tabelnaam'. 
+
+
+### Opdracht
+
+- Selecteer uit de tabel personen de naam van alle personen. 
+- Selecteer uit de tabel personen de naam en voornaam van alle personen. 
+
 
