@@ -4,7 +4,10 @@
 - [Introductie](#introductie)
 - [Database types](#Database-types)
 - [Wat zijn ‘relationele’ databases](#Wat-zijn-relationele-databases)
-- [Veelgebruikte relationele databases zijn](#Veel-gebruikte-relationele-databases-zijn)
+  - [Veelgebruikte relationele databases zijn](#Veel-gebruikte-relationele-databases-zijn)
+- [MySQL](#MySQL)
+- [PHPMyAdmin](#PHPMyAdmin)
+- [Een database](#Een-database)
 
 ## introductie
 
@@ -58,14 +61,15 @@ PhpMyAdmin is te vinden, als het geïnstalleerd staat, op http://localhost/phpmy
 
 ## Een database
 
-Het gaat te ver om hier heel uitgebreid in te gaan op hoe databases exact werken. U kunt bij ons een training MySQL Administering volgen. Wat we wel doen is een database aanmaken die de reacties uit ons formulier op kan slaan. Het wordt een Database die reacties heet met twee tabellen:
-
 ![database](./08-images/database.png)
 
 Opmerking: de bovenstaande afbeelding is met MS Acces gemaakt omdat PhpMyAdmin niet een dergelijke weergave heeft. Het is slechts bedoeld als illustratie!
 
 Wat we zien is een database (het geheel) die reacties heet. Twee zogenaamde tabellen die personen en reacties heten. Beide tabellen hebben op hun beurt weer zogenaamde attributen. Verder is er een één-op-veel relatie tussen personen en reacties hetgeen zoveel wil zeggen dat één persoon meerdere reacties kan maken. Een ander belangrijk aspect is dat beide tabellen een attribuut Id hebben. Dit zorgt ervoor dat een record dat uiteindelijk in de tabel komt te staan uniek te identificeren is (het is mogelijk dat een persoon twee keer hetzelfde berichtje stuurt, deze willen we wel uit elkaar kunnen houden).
 
-U kunt proberen zelf bovenstaande database aan te maken met behulp van PhpMyAdmin. U kunt ook gewoon create.txt downloaden, de inhoud naar het klembord kopiëren, naar http://localhost/phpmyadmin/ surfen en links op het knopje SQL (sql) klikken. Er verschijnt dan een zogenaamd query window alwaar u de inhoud van het klembord kunt plakken. Op Go (of start afhankelijk van uw versie) drukken zorgt ervoor dat de database Reacties aangemaakt wordt! In het volgende hoofdstuk gaan we hier mee verder.
+U kunt proberen zelf bovenstaande database aan te maken met behulp van PhpMyAdmin. U kunt ook gewoon create.txt downloaden, de inhoud naar het klembord kopiëren, naar http://localhost/phpmyadmin/ surfen en links op het knopje SQL (sql) klikken. Er verschijnt dan een zogenaamd query window alwaar u de inhoud van het klembord kunt plakken. Op Go (of start afhankelijk van uw versie) drukken zorgt ervoor dat de database Reacties aangemaakt wordt!
 
 ![database](./08-images/query_window.png)
+
+## SQL
+

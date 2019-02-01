@@ -18,6 +18,6 @@
    - [Music Search](./Module-2/05-Music-search.md)
    - [Quotes of the day](./Module-2/06-Quotes.md)
    - [Login Systeem](./Module-2/07-login-systeem.md)
-   - [Databases: Managing Mysql and PHPMyAdmin]()
+   - [Databases: Managing Mysql and PHPMyAdmin](./Module-2/08-Managing-a-database.md)
    - [Login Systeem: Database]()
    - [Databases: Queries]()
