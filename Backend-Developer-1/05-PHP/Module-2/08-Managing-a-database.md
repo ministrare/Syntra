@@ -76,6 +76,27 @@ U kunt proberen zelf bovenstaande database aan te maken met behulp van PhpMyAdmi
 
 ![database](./08-images/query_window.png)
 
+
+Om een bepaalde database te selecteren om met u te werken, geeft u de USE-instructie als volgt uit:
+
+``USE database_name;``
+
+We weten allemaal dat het veel gemakkelijker is om thuis je spullen op te bergen in dozen en die vervolgens te labelen dan om al je troep op de vloer te laten slingeren.
+
+Alhoewel ze van nature chaotisch zijn, waren computernerds zich hier van bewust en beseften dat computer informatie ook in gelabelde dozen (virtuele containers) moet worden opgeslagen. In een relationele databases noemen we deze ‘dozen’ tabellen
+
+In een notendop: de virtuele containers heten ‘tabellen’ en hier wordt de informatie in opgeslagen.
+
+## Een tabel
+
+Tabellen in een database zijn virtuele containers om informatie in op te slaan en te organizeren. Ze lijken in vele opzichten wel op spreadsheets, aangezien database tabellen ook bestaan uit kolommen en rijen.
+
+Het verschil tussen een spreadsheet (zoals Excel) en een relationele database, is dat een spreadsheet is gemaakt (en mogelijkheden heeft) om gegevens te bewerken om ze te presenteren - zoals diagrammen en rapportages e.d.
+
+Aan de andere kant is een database tabel gemaakt (en heeft gereedschappen en mogelijkheden) om gegevens te organiseren en op te slaan. Het kan dan ook veel meer data opslaan dan een spreadsheet.
+
+Dus, ja, je kunt ook informatie opslaan in een spreadsheet, maar het heeft niet de mogelijkheden die je in een database vindt.
+
 ## SQL
 
 Met behulp van deze instructie kunnen gegevens in tabellen worden opgevraagd (of geselecteerd) en opnieuw worden voorgesteld als een zogenoemde tijdelijk nieuwe tabel. 
@@ -97,5 +118,3 @@ Het is eveneens mogelijk om, zonder opgave van alle kolomnamen, alles van een be
 
 - Selecteer uit de tabel personen de naam van alle personen. 
 - Selecteer uit de tabel personen de naam en voornaam van alle personen. 
-
-
