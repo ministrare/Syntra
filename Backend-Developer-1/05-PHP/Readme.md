@@ -16,3 +16,8 @@
    - [jQuery](./Module-2/03-jQuery.md)
    - [Ajax](./Module-2/04-Ajax.md)
    - [Music Search](./Module-2/05-Music-search.md)
+   - [Quotes of the day](./Module-2/06-Quotes.md)
+   - [Login Systeem](./Module-2/07-login-systeem.md)
+   - [Databases: Managing Mysql and PHPMyAdmin]()
+   - [Login Systeem: Database]()
+   - [Databases: Queries]()
