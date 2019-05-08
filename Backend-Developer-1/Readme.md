@@ -8,7 +8,7 @@
  - [Git & Github](./03-Git-Github/)
  - [Basis Programmeren](./04-Basic-programming/)
  - [PHP Programmeren 1](./05-PHP/)
- - [Databanken](./06-Databases/)
+ - [PHP Fundamentals Opdrachten](./06-Opdrachten-Fundamentals/)
  - [Examen Databases](./07-Examen-Databases/)
  - [Eindopdracht](./08-Eindopdracht/)
 

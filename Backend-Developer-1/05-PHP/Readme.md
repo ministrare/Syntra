@@ -21,3 +21,6 @@
    - [Databases: Managing Mysql and PHPMyAdmin](./Module-2/08-Managing-a-database.md)
    - [Login Systeem: Database]()
    - [Databases: Queries]()
+ - [Module 3](./Module-3/)
+   - [TinyMVC project](./Module-3/1-tinymvc/)
+   - [RSS news feed](./Module-3/2-RSS-feeder/)

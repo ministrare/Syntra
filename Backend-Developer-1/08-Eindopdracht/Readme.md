@@ -24,7 +24,7 @@ De cursisten werken samen aan een eindproject en voorzien hiervoor een introduct
 ## Planning
 - 08-05-2019: Toelichting van de opdracht
 - 15-05-2019: Voorstel van project + goedkeuring
-- 22-05-2019: Concrete uitwerking van de projectbeschrijving
+- 24-05-2019: Concrete uitwerking van de projectbeschrijving
 - 29-05-2019: Eindwerkbegeleiding
 - 05-06-2019: Eindwerkbegeleiding
 - 07-06-2019: Eindwerkbegeleiding
