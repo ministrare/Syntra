@@ -3,8 +3,12 @@
 ## Inhoud
  - [Introductie](#Introductie)
  - [Leerdoelen](#Leerdoelen)
- - [Deadline](#Deadline)
+ - [Planning](#Planning)
  - [Minimum criteria](#Minimum-criteria)
+    -  [Project management](#Project-management)
+    -  [Beschrijving van het project](#Beschrijving-van-het-project)
+    -  [Technische uitwerking](#Technische-uitwerking)
+ -  [Oplevering](#Oplevering)
 
 
 ## Introductie
@@ -39,7 +43,7 @@ De eindproef bestaat uit drie delen:
 - De repository moet een Readme.md bevatten met daarin het volgende opgenomen:
     - Inhouds opgaven.
     - Planning.
-    - Rollen verdeling.
+    - Interne rollen verdeling.
     - Beschrijving van het project.
 
 ### Beschrijving van het project
