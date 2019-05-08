@@ -5,9 +5,9 @@
  - [Leerdoelen](#Leerdoelen)
  - [Planning](#Planning)
  - [Minimum criteria](#Minimum-criteria)
-    -  [Project management](#Project-management)
-    -  [Beschrijving van het project](#Beschrijving-van-het-project)
-    -  [Technische uitwerking](#Technische-uitwerking)
+    -  [Project management](#1-Project-management)
+    -  [Beschrijving van het project](#2-Beschrijving-van-het-project)
+    -  [Technische uitwerking](#3-Technische-uitwerking)
  -  [Oplevering](#Oplevering)
 
 
@@ -37,7 +37,7 @@ De eindproef bestaat uit drie delen:
 1. Beschrijving van het project.
 1. Technische uitwerking van het project.
 
-### Project management
+### 1. Project management
 - Het project moet version control bevatten doormiddels van een git repository op te zetten.
 - Het project word opgevolgd doormiddels van Git project board.
 - De repository moet een Readme.md bevatten met daarin het volgende opgenomen:
@@ -46,12 +46,12 @@ De eindproef bestaat uit drie delen:
     - Interne rollen verdeling.
     - Beschrijving van het project.
 
-### Beschrijving van het project
+### 2. Beschrijving van het project
 - Definitie van het project / afbakening / scope.
 - Database-structuur.
 - Mockup’s: wireframe van het de schermen via [figma](https://www.figma.com/).
 
-### Technische uitwerking
+### 3. Technische uitwerking
 - Er zit een database achter de website die minimaal bestaat uit 2 tabellen en onderling een relatie hebben.
 - Er zijn formulieren voorzien en heeft de website CRUD mogelijkheden over de records in het database.
 
