@@ -1,11 +1,15 @@
 # Examen Databases: Requisite
 
 ## Inhoud
- - [Requisite](./Requisite.md)
- - [Examen](./Exame.md)
-
-
-### Normalisatie
+ - [Normalisatie](#Normalisatie)
+ - [Queries](#Queries)
+ - [Werken met data](#Werken-met-data)
+ - [T SQL](#T-SQL)
+ - [Stored Procedures](#Stored-Procedures)
+ - [Opdracht Databanken](#Opdracht-Databanken)
+ - [Examen](#Examen-4u)
+ 
+## Normalisatie
 - Ontwerpen en aanmaken van tabellen
 - Werken met datatypes
 - Relaties en indexen
@@ -15,7 +19,7 @@
 - Ontwerpen: normalisatie niveau`s komen hier aanbod
 - Aanmaken van tabellen en realties grafisch in SQLExpress
 
-### Queries
+## Queries
 - Select query
     - Filteren
     - Sorteren
@@ -23,22 +27,22 @@
 - SubQueries
 - Standaard functies (single row functions)
 
-### Werken met data
+## Werken met data
 - Insert
 - Update
 - Delete
 - Transactions
 
-### T SQL
+## T SQL
 - Create table
 - Drop table
 - Alter table
 
-### Stored Procedures
+## Stored Procedures
 - De voordelen van stored procedures uitleggen
 - Stored procedures opbouwen
 
-### Opdracht Databanken
+## Opdracht Databanken
 - 20 punten voor dagelijks werk
 
-### Examen (4u)
+## Examen (4u)

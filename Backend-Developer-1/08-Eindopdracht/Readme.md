@@ -33,9 +33,6 @@ De cursisten werken samen aan een eindproject en voorzien hiervoor een introduct
 
 ## Minimum criteria
 De eindproef bestaat uit drie delen: 
-1. Project management.
-1. Beschrijving van het project.
-1. Technische uitwerking van het project.
 
 ### 1. Project management
 - Het project moet version control bevatten doormiddels van een git repository op te zetten.
