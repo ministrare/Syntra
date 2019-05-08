@@ -146,3 +146,4 @@ Het is eveneens mogelijk om, zonder opgave van alle kolomnamen, alles van een be
 
 - Selecteer uit de tabel personen de naam van alle personen. 
 - Selecteer uit de tabel personen de naam en voornaam van alle personen. 
+- 
