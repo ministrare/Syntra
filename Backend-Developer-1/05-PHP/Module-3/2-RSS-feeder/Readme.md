@@ -151,30 +151,31 @@ $xml->endElement();
 - Create an OOP class, which allows us to generate an XML page based on an array of items (in the example down bellow), which contains all the items data.
 
 ```php
+
 $data = array(
-    [
+    array(
         'title' => 'Website is going down, End of the world is near!',
         'pubDate' => 'Fri 9 Oct 2019 13:00',
         'link' => 'http://www.ministrare.be/blog/4',
         'description' => '<![CDATA[End of the world!]]>'
-    ],
-    ]
+    ),
+    array(
         'title' => 'Our first post is a fact!',
         'pubDate' => 'Wen 7 Oct 2019 13:00',
         'link' => 'http://www.ministrare.be/blog/3',
         'description' => '<![CDATA[Visit this <a href="http://www.ministrare.be">link</a> to my website!]]>'
-    ],
-    ]
+    ),
+    array(
         'title' => 'Our second post is alive!',
         'pubDate' => 'Mon 5 Oct 2019 13:00',
         'link' => 'http://www.ministrare.be/blog/2',
         'description' => '<![CDATA[Visit this <a href="http://www.ministrare.be">link</a> to my website!]]>'
-    ],
-    ]
+    ),
+    array(
         'title' => 'Our first post is a fact!',
         'pubDate' => 'Sat 3 Oct 2019 13:00',
         'link' => 'http://www.ministrare.be/blog/1',
         'description' => '<![CDATA[Visit this <a href="http://www.ministrare.be">link</a> to my website!]]>'
-    ]
+    )
 );
 ```
