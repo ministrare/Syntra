@@ -51,6 +51,7 @@ De eindproef bestaat uit drie delen:
 ### 3. Technische uitwerking
 - Er zit een database achter de website die minimaal bestaat uit 2 tabellen en onderling een relatie hebben.
 - Er zijn formulieren voorzien en heeft de website CRUD mogelijkheden over de records in het database.
+- Het project moet in een MVC structuur zijn opgebouwd.
 
 ## Oplevering
 De oplevering gebeurt via Git op 19-06-2019 en de presentaties zullen in de klas verlopen.
