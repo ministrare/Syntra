@@ -16,8 +16,7 @@ om de laatste updates van je docenten op je computer tot je beschikking te krijg
 ### Leerstof
 
  - [Backend Developer 1](./Backend-Developer-1/)
- - [Backend Developer 2](./Backend-Developer-2/)
-
+ 
 
 ## SYNTRA documenten, regelementen, enz. 
 
