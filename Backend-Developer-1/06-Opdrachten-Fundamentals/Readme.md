@@ -1,5 +1,7 @@
 # PHP Fundamentals Opdracht
 
+![php-fundamentals](https://2.bp.blogspot.com/-CdO-UrmNhiw/WIOIhk-Us4I/AAAAAAAAE4g/n1tS4NEaoRExF-L-YYEaAZkjL3IiNu21ACLcB/s1600/1.jpg)
+
 ### Inhoud
 - [Beschrijving](#Beschrijving)
 - [Minimum criteria](#Minimum-criteria)
