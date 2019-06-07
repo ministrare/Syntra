@@ -24,6 +24,7 @@ Het gaat om een ``crud`` bestaande uit 5 pagina`s:
 
 Maak gebruik van bootstrap om alles net weer te geven op het scherm.
 
+![github](https://www.dutchento.org/wp-content/uploads/2010/09/github-logo.png)
 ## Oplevering
 - Het project moet worden afgeleverd op ``19-06-2019``.
 - Het project moet via een git repostorie worden afgeleverd.
